@@ -15,7 +15,7 @@ export default function App(props) {
           <div className="flex gap-5 justify-between my-auto text-sm leading-5 text-gray-300">
             <div>Categories</div>
             <div className="flex-auto">Website Builders</div>
-          <div className="">
+          <div className="self-start mt-5 text-sm leading-5 text-gray-300">
             Today's deals
           </div>
         </div>
