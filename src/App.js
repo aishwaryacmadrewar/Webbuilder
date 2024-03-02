@@ -16,7 +16,7 @@ export default function App(props) {
             <div>Categories</div>
             <div className="flex-auto">Website Builders</div>
           </div>
-          <div className="">
+          <div className="self-start mt-5 text-sm leading-5 text-gray-300">
             Today's deals
           </div>
         </div>
